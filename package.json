@@ -1,0 +1,23 @@
+{
+  "name": "userdata-storetoapi",
+  "version": "1.0.0",
+  "description": "User input data will be storing in the user.json file",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanjit-paul/UserData-StoreToAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanjit-paul/UserData-StoreToAPI/issues"
+  },
+  "homepage": "https://github.com/prasanjit-paul/UserData-StoreToAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
